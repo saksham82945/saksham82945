@@ -147,11 +147,31 @@ Currently pursuing my Bachelor of Computer Applications (BCA) at Lalit Narayan M
 </a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/saksham82945/ReactUdemy">
+<a href="https://github.com/saksham82945/ChaiBackend">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/card-ReactUdemy-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/card-ReactUdemy-light.svg">
-<img src="assets/card-ReactUdemy-dark.svg" width="420" alt="React Udemy">
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-ChaiBackend-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-ChaiBackend-light.svg">
+<img src="assets/card-ChaiBackend-dark.svg" width="420" alt="ChaiBackend">
+</picture>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/saksham82945/CHAI-AUR-JS-">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-CHAI-AUR-JS--dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-CHAI-AUR-JS--light.svg">
+<img src="assets/card-CHAI-AUR-JS--dark.svg" width="420" alt="CHAI AUR JS">
+</picture>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/saksham82945/Netflix-Gpt">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-Netflix-Gpt-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-Netflix-Gpt-light.svg">
+<img src="assets/card-Netflix-Gpt-dark.svg" width="420" alt="Netflix Gpt">
 </picture>
 </a>
 </td>
@@ -164,7 +184,9 @@ Currently pursuing my Bachelor of Computer Applications (BCA) at Lalit Narayan M
 | **College Management System** | `React` `Node.js` `Express` `MongoDB` `Tailwind` `Zustand` |
 | **PORTFOLIO-WESBITE-** | `React` `Node.js` `Express` `MongoDB` |
 | **Portfolio-Saksham** | `HTML` `CSS` `JavaScript` |
-| **ReactUdemy** | `React` `JavaScript` |
+| **ChaiBackend** | `JavaScript` `Node.js` |
+| **CHAI-AUR-JS-** | `JavaScript` |
+| **Netflix-Gpt** | `React` `JavaScript` |
 
 </sub>
 </div>
@@ -188,3 +210,4 @@ Currently pursuing my Bachelor of Computer Applications (BCA) at Lalit Narayan M
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 
 </div>
+

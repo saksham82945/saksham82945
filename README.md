@@ -119,12 +119,40 @@ Currently pursuing my Bachelor of Computer Applications (BCA) at Lalit Narayan M
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/saksham82945/College-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=saksham82945&repo=College-Management-System&theme=radical" width="420" alt="College Management System">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-College-Management-System-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-College-Management-System-light.svg">
+<img src="assets/card-College-Management-System-dark.svg" width="420" alt="College Management System">
+</picture>
 </a>
 </td>
 <td width="50%" align="center">
-<a href="https://github.com/saksham82945/LinkPort">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=saksham82945&repo=LinkPort&theme=radical" width="420" alt="LinkPort">
+<a href="https://github.com/saksham82945/PORTFOLIO-WESBITE-">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-PORTFOLIO-WESBITE--dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-PORTFOLIO-WESBITE--light.svg">
+<img src="assets/card-PORTFOLIO-WESBITE--dark.svg" width="420" alt="PORTFOLIO WESBITE">
+</picture>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/saksham82945/Portfolio-Saksham">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-Portfolio-Saksham-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-Portfolio-Saksham-light.svg">
+<img src="assets/card-Portfolio-Saksham-dark.svg" width="420" alt="Portfolio Saksham">
+</picture>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/saksham82945/ReactUdemy">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-ReactUdemy-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-ReactUdemy-light.svg">
+<img src="assets/card-ReactUdemy-dark.svg" width="420" alt="React Udemy">
+</picture>
 </a>
 </td>
 </tr>
@@ -134,7 +162,9 @@ Currently pursuing my Bachelor of Computer Applications (BCA) at Lalit Narayan M
 | project | stack |
 |---|---|
 | **College Management System** | `React` `Node.js` `Express` `MongoDB` `Tailwind` `Zustand` |
-| **LinkPort** | `React` `Node.js` `Express` `MongoDB` `OpenAI` `Redis` `Puppeteer` |
+| **PORTFOLIO-WESBITE-** | `React` `Node.js` `Express` `MongoDB` |
+| **Portfolio-Saksham** | `HTML` `CSS` `JavaScript` |
+| **ReactUdemy** | `React` `JavaScript` |
 
 </sub>
 </div>

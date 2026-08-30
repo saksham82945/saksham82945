@@ -1,12 +1,1 @@
-{
-  "projects": [
-    {
-      "repo": "College-Management-System",
-      "description": "Full-stack College Management System using React 18, Node.js/Express.js, and MongoDB."
-    },
-    {
-      "repo": "LinkPort",
-      "description": "AI-Powered Career SaaS Platform featuring document generation, OAuth aggregation, and subscription management."
-    }
-  ]
-}
+{ "projects": [ { "repo": "College-Management-System", "description": "Full-stack College Management System using React, Node.js, and MongoDB." }, { "repo": "PORTFOLIO-WESBITE-", "description": "A Personal modern MERN stack portfolio featuring seamless animations." }, { "repo": "Portfolio-Saksham", "description": "A code repo for my Portfolio website." }, { "repo": "ReactUdemy", "description": "A React learning and practice repository." } ] }

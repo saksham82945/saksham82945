@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "repo": "College-Management-System",
+      "description": "Full-stack College Management System using React 18, Node.js/Express.js, and MongoDB."
+    },
+    {
+      "repo": "LinkPort",
+      "description": "AI-Powered Career SaaS Platform featuring document generation, OAuth aggregation, and subscription management."
+    }
+  ]
+}
